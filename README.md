@@ -1,4 +1,4 @@
-# Tool Đăng Ký Học Phần UIT
+# Tool Đăng Ký Học Phần VMU
 
 - [Xem video hướng dẫn](https://www.youtube.com/watch?v=KmW7qu52dpE)
 - [Ngó sơ qua tool đăng ký học phần](https://docs.google.com/spreadsheets/d/1DtVql2fZgBr2bwzHHVePjWf8gELXi5uK_wXD8aTppTw/edit#gid=200020773)
